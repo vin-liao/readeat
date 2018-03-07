@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\codes\java\ReadEat\app\build\intermediates\exploded-aar\com.davemorrissey.labs\subsampling-scale-image-view\3.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ae3fb5e70b67cf542338288b0d68c6c367da7367">
+        <dex dex="D:\codes\java\ReadEat\app\build\intermediates\pre-dexed\debug\com.davemorrissey.labs-subsampling-scale-image-view-3.6.0_de851832340796ccf21de03ca72b5b8ea54e23b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\codes\java\ReadEat\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\codes\java\ReadEat\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_a514a0529a2cbefbe3f7c47000fcb27d71ba384b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\codes\java\ReadEat\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_a69735fb31405abb6c5b972e1b2bb4f918f620e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\codes\java\ReadEat\app\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="D:\codes\java\ReadEat\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.3.1_a321de2d7ef5fe5e196e9e962c22d778bb2e15ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\codes\java\ReadEat\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\codes\java\ReadEat\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_82db3d5daebf4b920031638bea5a83725baf1af4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\cz.msebera.android\httpclient\4.3.6\526a9f794eab830eae4f23a62c572878b3f491ab\httpclient-4.3.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="D:\codes\java\ReadEat\app\build\intermediates\pre-dexed\debug\httpclient-4.3.6_a05f546eace6bc62554b8eb691f0e03ffb5c81df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\codes\java\ReadEat\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\codes\java\ReadEat\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_85c3ed7c736ca487680956baf2b26c67c35d38eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\codes\java\ReadEat\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="D:\codes\java\ReadEat\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.3.1_03a4f002ead05b7e4a5f333dda78a50409cce062.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\codes\java\ReadEat\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\codes\java\ReadEat\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_8e1d6961d40eb95fd25e97b13229154b0bb173de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\codes\java\ReadEat\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\codes\java\ReadEat\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_a573c8ef195a6615f9921d7ab8bd261612f4b14e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.loopj.android\android-async-http\1.4.9\386a4339ffe52d5d63e80f9bed8d2b1d1a418249\android-async-http-1.4.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="D:\codes\java\ReadEat\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.9_1393840736e6882ffe35bc491551511dae9c756b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\codes\java\ReadEat\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\codes\java\ReadEat\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_78ba4f66b38cec228ebfb67366785cfd0987d4e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\codes\java\ReadEat\app\build\intermediates\exploded-aar\pl.droidsonroids.gif\android-gif-drawable\1.2.7\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d9f58e509a3ff5b601c11ab5ec588c96f9eb82b2">
+        <dex dex="D:\codes\java\ReadEat\app\build\intermediates\pre-dexed\debug\pl.droidsonroids.gif-android-gif-drawable-1.2.7_504ce236e1e1f00d851abbacf0ec0d4d4180a57b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\codes\java\ReadEat\app\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="D:\codes\java\ReadEat\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.3.1_45598550482ebc6b8473b76133d591f964b0f129.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\org.parceler\parceler-api\1.1.7\5130f18491ca8c5a3664824d7cd3086188ebcccc\parceler-api-1.1.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5130f18491ca8c5a3664824d7cd3086188ebcccc">
+        <dex dex="D:\codes\java\ReadEat\app\build\intermediates\pre-dexed\debug\parceler-api-1.1.7_13baa6f2af12ccf29b7550c1088921bbef574be4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\codes\java\ReadEat\app\build\intermediates\exploded-aar\com.github.chrisbanes\PhotoView\2.1.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="134b42d33a56d688177ad724841230e12ab5d128">
+        <dex dex="D:\codes\java\ReadEat\app\build\intermediates\pre-dexed\debug\com.github.chrisbanes-PhotoView-2.1.2_2694bbc61e83edf27a3f27994d5c43c2a86208b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\codes\java\ReadEat\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\codes\java\ReadEat\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_d8f9f0921e6e77ea39b498a0e2bf132bd0fe6763.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\codes\java\ReadEat\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\codes\java\ReadEat\app\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.0.2_fad1ef8860dbaa6fad6dfe48d1809881f1c58d39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\codes\java\ReadEat\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\codes\java\ReadEat\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_4e4196b49ec7ec00bb00832ba2710912c1b7e98a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\codes\java\ReadEat\app\build\intermediates\pre-dexed\debug\glide-3.7.0_56487dcc601537ec955eea625d9774ba24b2cff3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="D:\codes\java\ReadEat\app\build\intermediates\pre-dexed\debug\gson-2.8.0_dc057325a5d9b9680d21b464c456438ae2abd526.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\codes\java\ReadEat\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\codes\java\ReadEat\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_4f283940507a9b3377807a07d480eaf729359fb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\codes\java\ReadEat\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_56cb9135bf1bd704eeaa78bb7e1de36312cfdd96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\codes\java\ReadEat\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_a5a2825b34de3f3f7ae9d3d699d30b462eec82a0.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".activities.MainActivity">
+
+    <item
+        android:id="@+id/action_main_refresh"
+        android:title="@string/refresh"
+        app:showAsAction="always"
+        android:icon="@drawable/refresh"/>
+
+    <item
+        android:id="@+id/action_main_search"
+        android:title="@string/search"
+        android:icon="@drawable/ic_search"
+        app:showAsAction="always"/>
+
+
+    <item
+        android:id="@+id/action_main_sort"
+        android:title="@string/sort"
+        app:showAsAction="always"
+        android:icon="@drawable/sort">
+
+        <menu>
+            <item
+                android:id="@+id/action_sort_hot"
+                android:title="@string/sort_hot"/>
+
+            <item
+                android:id="@+id/action_sort_new"
+                android:title="@string/sort_new"/>
+
+            <item
+                android:id="@+id/action_sort_rising"
+                android:title="@string/sort_rising"/>
+
+            <item
+                android:id="@+id/action_sort_top"
+                android:title="@string/sort_top"/>
+
+            <item
+                android:id="@+id/action_sort_controversial"
+                android:title="@string/sort_controversial"/>
+
+            <!--<item
+                android:id="@+id/action_sort_gilded"
+                android:title="@string/sort_gilded"/>-->
+        </menu>
+    </item>
+
+</menu>

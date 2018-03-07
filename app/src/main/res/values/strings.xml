@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">readeat</string>
+    <string name="threadResponse"> threadResponse</string>
+
+    <string name="refresh">Refresh</string>
+    <string name="search">Search</string>
+    <string name="sort">Sort</string>
+    <string name="open_drawer">Open</string>
+    <string name="close_drawer">Close</string>
+    <string name="test">ganteng</string>
+    <string name="sort_new">Sort by new</string>
+    <string name="sort_top">Sort by top</string>
+    <string name="sort_rising">Sort by rising</string>
+    <string name="sort_hot">Sort by hot</string>
+    <string name="sort_gilded">Sort by gilded</string>
+    <string name="sort_controversial">Sort by controversial</string>
+    <string name="interpunct">・</string>
+    <string name="continue_thread">Continue thread...</string>
+    <string name="subreddit_name">frontpage</string>
+    <string name="score_hidden">[score hidden]</string>
+    <string name="tagUrl">0</string>
+    <string name="tagPostHint">1</string>
+    <string name="overview">Overview</string>
+    <string name="username">Username</string>
+</resources>

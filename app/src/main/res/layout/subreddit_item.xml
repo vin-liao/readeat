@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent">
+
+    <ImageView
+        android:id="@+id/threadThumbnail"
+        android:layout_width="90dp"
+        android:layout_height="match_parent"
+        app:srcCompat="@android:color/transparent" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingBottom="6dp"
+        android:paddingLeft="4dp"
+        android:paddingRight="4dp"
+        android:paddingTop="6dp">
+
+
+        <TextView
+            android:id="@+id/subredditPostTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="10dp"
+            android:text="Title"
+            android:textSize="18sp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:paddingBottom="8dp">
+
+            <TextView
+                android:id="@+id/subredditPostAuthor"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Author"
+                android:textSize="12sp" />
+
+            <TextView
+                android:id="@+id/authorInterpunct"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="・" />
+
+            <TextView
+                android:id="@+id/subredditPostTime"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="postTime"
+                android:textSize="12sp" />
+
+            <TextView
+                android:id="@+id/postTimeInterpunct"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="・" />
+
+            <TextView
+                android:id="@+id/subredditPostName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="postSubreddit"
+                android:textSize="12sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/subredditPostScore"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:text="Score" />
+
+            <TextView
+                android:id="@+id/scoreInterpunct"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="・" />
+
+            <TextView
+                android:id="@+id/subredditPostComments"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:text="Comments" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+</LinearLayout>
